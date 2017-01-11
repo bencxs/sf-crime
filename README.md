@@ -15,7 +15,7 @@ Dataset can be found via [Kaggle](https://www.kaggle.com/c/sf-crime/data)
 ## Files
 `1_preprocess.ipynb` - Code for preprocessing dataset
 
-`2_model,ipynb` - Code for model training and testing
+`2_model.ipynb` - Code for model training and testing
 
 ## Status
 ### Model
